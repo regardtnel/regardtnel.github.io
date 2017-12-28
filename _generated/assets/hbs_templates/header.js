@@ -1,0 +1,3 @@
+define(["handlebars"], function(Handlebars) { return Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<header>\n    <div class=\"header-logo\">\n        <h1>Think Training</h1>\n    </div>\n\n    <nav>\n        <ul>\n            <li>Courses</li>\n            <li>Contact</li>\n            <li>About Us</li>\n            <li>Home</li>\n            <li>What we do</li>\n        </ul>\n    <nav>\n</header>\n";
+},"useData":true}); });
